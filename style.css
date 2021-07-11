@@ -1,0 +1,55 @@
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    background-color: rgba(25, 0, 255, 0.582);
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+#hd3 {
+    color: rgb(255, 248, 248);
+    font-size: 20px;
+}
+body {
+    background-size: cover;
+}
+#hello {
+    color: white;
+}
+#ibox {
+    width: 30%;
+    height: 5%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+.start {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+.status {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+.objfound {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+canvas {
+    margin-top: 140px;
+    width: 500;
+    height: 380;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
